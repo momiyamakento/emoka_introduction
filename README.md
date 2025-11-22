@@ -115,7 +115,7 @@ PDFスライド：「P3_エモカ.pdf」
 
 ## 📄 参考 PDF（アップロード済）
 プロジェクト説明用スライド（PDF）：  
-`/mnt/data/P3_エモカ.pdf`
+https://github.com/momiyamakento/emoka_introduction/blob/main/P3_%E3%82%A8%E3%83%A2%E3%82%AB.pdf
 
 ---
 
